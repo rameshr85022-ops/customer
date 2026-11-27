@@ -1,4 +1,4 @@
-products = ["Shoes", "Clothes", "Smartphone", "Smart Watch", "Bluetooth Speaker:"]
+products = ["Shoes:", "Clothes:", "Smartphone:", "Smart Watch:", "Bluetooth Speaker:"]
 prices = {}
 total = 0
 
